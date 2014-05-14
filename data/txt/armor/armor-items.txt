@@ -1,0 +1,95 @@
+# armor-items.txt
+#
+# Provides Vagrant Story armor types.
+#
+# Lines beginning with "--" identify the armor type
+
+-- Arm
+Bandage
+Leather Glove
+Reinforced Glove
+Knuckles
+Ring Sleeve
+Chain Sleeve
+Gauntlet
+Vambrace
+Plate Glove
+Rondanche
+Tilt Glove
+Freiturner
+Fluted Glove
+Hoplite Glove
+Jazeraint Glove
+Dread Glove
+
+-- Body
+Jerkin
+Hauberk
+Wizard Robe
+Cuirass
+Banded Mail
+Ring Mail
+Chain Mail
+Breastplate
+Segmentata
+Scale Armour
+Brigandine
+Plate Mail
+Fluted Mail
+Hoplite Armour
+Jazeraint Armour
+Dread Armour
+
+-- Helm
+Bandana
+Bear Mask
+Wizard Hat
+Bone Helm
+Chain Coif
+Spangenhelm
+Cabasset
+Sallet
+Barbut
+Basinet
+Armet
+Close Helm
+Burgonet
+Hoplite Helm
+Jazeraint Helm
+Dread Helm
+
+-- Leg
+Sandals
+Boots
+Long Boots
+Cuisse
+Light Greaves
+Ring Leggings
+Chain Leggings
+Fusskampf
+Poleyn
+Jambeau
+Missaglia
+Plate Leggings
+Fluted Leggings
+Hoplite Leggings
+Jazeraint Leggings
+Dread Leggings
+
+-- Shield
+Buckler
+Targe
+Pelta Shield
+Quad Shield
+Circle Shield
+Tower Shield
+Spiked Shield
+Round Shield
+Kite Shield
+Casserole Shield
+Heater Shield
+Oval Shield
+Knight Shield
+Hoplite Shield
+Jazeraint Shield
+Dread Shield

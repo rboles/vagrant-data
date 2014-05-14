@@ -1,0 +1,26 @@
+# material-types.txt
+#
+# Flat list of material types
+#
+# There are seven different base materials at work in Vagrant Story:
+# Wood, Leather, Bronze, Iron, Hagane, Silver, Damascus. This order
+# also represents the increasing strength and resilience.
+#
+# Note there is a difference between the atomic material types and
+# materials that may result from a combination. Some combinations
+# produce stronger or weaker versions of the atomic materials.
+
+# Name           | Short | Atomic | Strength | Armor | Weapon | Shield
+# --------------------------------------------------------------------
+ Wood            | W     | T      | 1        | F     | F      | T
+ Leather         | L     | T      | 2        | T     | F      | F
+ Bronze          | B     | T      | 3        | T     | T      | T
+ Weak Iron       | -I    | F      | 4        | T     | F      | F
+ Iron            | I     | T      | 5        | T     | T      | T
+ Weak Hagane     | -H    | F      | 6        | T     | F      | F
+ Hagane          | H     | T      | 7        | T     | T      | T
+ Strong Hagane   | +H    | F      | 8        | T     | T      | T
+ Silver          | S     | T      | 9        | T     | T      | T
+ Strong Silver   | +S    | F      | 10       | T     | F      | T
+ Damascus        | D     | T      | 11       | T     | T      | T
+ Strong Damascus | +D    | F      | 12       | F     | F      | F

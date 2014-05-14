@@ -1,0 +1,116 @@
+# weapon-items.txt
+#
+# Provides Vagrant Story weapon types.
+#
+# Lines beginning with "--" identify the weapon type
+
+-- Axe
+Hand Axe
+Battle Axe
+Francisca
+Tabarzin
+Chamkaq
+Tabar
+Bullova
+Crescent
+
+-- Crossbow
+Gastraph Bow
+Target Bow
+Light Crossbow
+Windlass
+Cranequin
+Lug Crossbow
+Siege Bow
+Arbalest
+
+-- Dagger
+Battle Knife
+Scramasax
+Dirk
+Throwing Knife
+Kudi
+Cinquedea
+Kris
+Hatchet
+Khukuri
+Baselard
+Stiletto
+Jamadhar
+
+-- Great Axe
+Guisarme
+Large Crescent
+Sabre Halberd
+Balbriggan
+Double Blade
+Halberd
+
+-- Great Sword
+Broad Sword
+Norse Sword
+Katana
+Executioner
+Claymore
+Schiavona
+Bastard Sword
+Nodachi
+Rune Blade
+Holy Win
+
+-- Heavy Mace
+Langdebeve
+Sabre Mace
+Footman's Mace
+Gloomwing
+Mjolnir
+Griever
+Destroyer
+Hand of Light
+
+-- Mace
+Goblin Club
+Spiked Club
+Ball Mace
+Footman's Mace
+Morning Star
+War Hammer
+Bec de Corbin
+War Maul
+
+-- Polearm
+Spear
+Glaive
+Scorpion
+Corcesca
+Trident
+Awl Pike
+Boar Spear
+Fauchard
+Voulge
+Pole Axe
+Bardysh
+Brandestoc
+
+-- Staff
+Wizard Staff
+Clergy Rod
+Summoner Baton
+Shamanic Staff
+Bishop's Crosier
+Sage's Cane
+
+-- Sword
+Spatha
+Scimitar
+Rapier
+Short Sword
+Firangi
+Shamshir
+Falchion
+Shotel
+Kora
+Khopesh
+Wakizashi
+Rhomphaia
+

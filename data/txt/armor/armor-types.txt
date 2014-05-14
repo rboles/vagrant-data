@@ -1,0 +1,11 @@
+# armor-types.txt
+#
+# Vagrant Story armor types
+#
+# The order is not important, so they are alphabetical
+
+Arm
+Body
+Helm
+Leg
+Shield

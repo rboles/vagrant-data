@@ -1,0 +1,773 @@
+# Vagrant Story
+# Quick Combination Guide
+# Taken from Zy Nicholson's Walkthrough
+# Version 1.3 June 18th, 2000
+
+==============================================
+13. COMBINATION, FORGING AND REFORGING
+==============================================
+
+The workshop ability to reforge equipment is possibly the finest option 
+available to the core player. This is where you'll really get the chance to 
+establish your daylight-shunning gamer status, spending hours in a to-and-fro 
+motion betwixt storage container and the Equipment Set-up option. Because this 
+guide is eager for you all to get those diurnally-necessary skin vitamins, 
+however, we're establishing this section for quick and easy referencing of both 
+techniques and component lists to so that you can check for the best 
+combinations on a handy table. The original lists are mine by research, and it 
+is merely a matter of time before I write up my remaining notes, but I'm also 
+hoping to credit many of you with unforeseen addenda.
+
+There are several reasons for choosing the COMBINE option:
+
+(a) Improving an item's metal
+There are seven different materials at work in Vagrant Story; Wood, Leather, 
+Bronze, Iron, Hagane, Silver and Damascus.  This order also represents the 
+increasing strength and resilience of the metals involved, with some additional 
+factors thrown in. Through use of the workshop, it's possible to combine various 
+materials to create either stronger items or items constructed of completely new 
+materials.
+
+The general rule is that lesser materials become absorbed into greater ones. So 
+if you combine a Hagane shield with an Iron shield, the result will be Hagane 
+rather than Iron. Rare materials are more difficult to combine, and be warned 
+that you may even end up with a shield that is less powerful as a result (see 
+point 3 below). There are some interesting metallurgical results derived from 
+combination, though, as follows:
+
+(i) Combining Bronze and Iron creates Hagane.
+This is a useful trick to use early in the game, as you can take your starting 
+items and improve their strength while retaining all the bonuses you've 
+accumulated. So that much-loved Fandango blade needn't be tossed aside: find an 
+Iron Scimitar blade, combine it with the Bronze Fandango, then reassemble the 
+blade with the best grip you can find for a brand new Hagane weapon. 
+
+(ii) Sometimes, combining Bronze and Hagane items results in a Silver item. 
+I've yet to suss the exact conditions for this, and would like to hear how it's 
+resolved. But I can say that if you're looking at an unwanted Silver result from 
+a combination, try alternating the order of the items being combined. I've 
+noticed that the Silver result normally occurs when you have a Bronze item in 
+the first field and a Hagane item in the second. Reversing them so that the 
+Hagane item is listed first can actually change the result to Hagane rather than 
+Silver.
+
+(iii) Sometimes, combining Hagane and Silver items results in a Damascus item. 
+A couple of contributors and myself are on the brink of sussing the rules for 
+this, but Silver and Damascus aren't pure or unmixable at all. You will be able 
+to upgrade all of that Hagane equipment to Damascus, in time, and it is possible 
+to combine the two and retain a Damascus result.
+
+(b) Creating a new item
+Here's where you'll really get into the whole combination business through 
+addiction. The game will only surrender so many weapons and pieces of armour: 
+the rest are to be discovered, and most of those will only come into being if 
+you make them yourself. In other words, there's a stack of great kit in the game 
+that will only come into your possession if you use the workshop to make it by 
+hand. Excited, yet? (As Vincent Merken puts it, &quot;Gotta forge 'em all!&quot;).
+
+There are some perceivable rules to combination that will take your experiments 
+beyond mere trial and error.
+
+(i) Upgrading items from the same weapon group.
+If you're looking to improve your weapons, the key is to stick with items of the 
+same class. Some commonsense applies: if you combine a high-STR dagger with a 
+low-STR dagger, you'll usually end up with a dagger whose STR rests somewhere in 
+between.
+
+Advancement through combination is also possible, and there are a couple of 
+tricks to try out here when you're looking for the next big thing.
+
+(ii) adding closely-related items.
+Especially, this is the trick to use when you wish to bring your familiar 
+starting items up to scratch. Combine a Jambeau leg-armour with the weaker 
+Poleyn and you'll create the superior Missaglia. Then combine the Missaglia with 
+another Poleyn and you'll have a Plate Legging. Keeping to the same class of 
+weapon is important here, so if you want to upgrade item x in the list of Great 
+Swords, try combining it with Great Sword x minus 1 (the next Great Sword down) 
+or x minus 2.
+
+(iii) combining identical items
+If you've reached what seems like the end of the line with the previous 
+technique, try doubling up for a result. For example, a Tilt Glove plus a Tilt 
+Glove results in a Freiturnier; a Mjolnir plus a Mjolnir creates a Griever; a 
+Hoplite Shield plus a Hoplite Shield will give a Jazeraint Shield; and so on.
+
+(iv) creating new items from mixed groups
+When you combine weapons from different groups, the results are less 
+predictable. A mace combined with a polearm might actually lead to a rapier, or 
+a crossbow. Mix legging armour with sleeve armour and you may find yourself 
+looking at a type of helmet. This is one good reason for never discarding 
+anything, in case it can be combined to create more than it seems. The rule here 
+is that the sophistication of the items will come into play, and items from 
+crossed classes will never be in the same league as those from which they're 
+produced: combine a basic knife with a basic axe and the results will be basic, 
+whereas a high-calibre dagger combined with a high-calibre axe might result in a 
+new, mid-calibre class of weapon.
+
+Furthermore, there seems to be a pegging system for the power of weapons and 
+armour that you can exploit to create a new item in a different class but of the 
+same relative strength. Try combining a glove with an armour, for instance, and 
+if both are (say) at Fluted level then the result will stay Fluted too. See the 
+table of suit groups below to find out how to make similarly pegged items.
+
+
+(c) Strengthening a weapon
+Even when you've created exactly the item you want, in the metal you want, the 
+possibilities of combination remain. 
+
+By way of example, let's take a piece of hand armour. Perhaps you've already 
+combined a Vambrace (I) and a Gauntlet (B) to make your own Plate Glove (H) 
+that's been serving you very well. Suddenly, you win a Plate Glove (I) that 
+ought to be less powerful, but when you consult its basic stats you realise that 
+it's almost as sound as the one you've made in Hagane and improved through a few 
+hits. The good news is that there's no either/or here: what you can do is head 
+to the workshop and combine the Iron Plate Glove with your Hagane model, 
+resulting in a new Hagane Plate Glove that has some of the Iron's bonuses added 
+to it.
+
+This system works both ways, of course, and you may find that adding a negative 
+statistic in the combination process has reduced some of your blade type or 
+elemental modifiers. Sometimes the pluses are overwhelmed by the minuses and 
+would result in an inferior piece of kit, so there's still a lot of status-
+checking and weighing-up of odds to consider before you combine items.
+
+In practical terms, this means you should use the SQUARE button to check the 
+various statistics of the components you're combining with the result before 
+acknowledging the combination. Keep pressing SQUARE to cycle through all 
+attribute displays, incidentally.
+
+(d) Strengthening armour
+The most important aspect here is the Type rating. A piece of armour can gain 
+all sorts of creature-class and elemental bonuses, but the Type rating remains 
+fixed. When combining, look for combinations that improve the Type rating and 
+avoid those that reduce it. The ideal combination will give your item a decent 
+stat in all three classes.
+
+The next factors to watch for are those negative affinity modifiers. If you 
+start adding lots of negative values, you're building weaknesses into the 
+armour. A helm with -20 vs Dark can be improved against Dark attacks over time, 
+but working off that handicap will inevitably result in a near-similar number 
+being subtracted from your vs Light score.
+
+The technique is further limited by the possibility of accidental upgrade. 
+Combine a Tilt Glove with a Tilt Glove and you'll actually get a Freiturner, 
+when you may have wished to retain a Tilt Glove for future combination.
+
+The long and short of it, though, is that you should never discard less 
+sophisticated items that might be combined with your existing equipment for 
+potential gain. No matter how simple its design, a Bronze Buckler made of a 
+thousand used and scavenged shields may offer more protection than a fresh 
+Damascus Targe that's never seen combat.
+
+
+==============================================
+14. COMBINATION TABLES
+==============================================
+
+My notes are still being written up for weapons, but this should set you on the 
+road to invulnerability. Note that there seem to be some 'key' items that you 
+can't make from lesser items in the same group, and that aren't available to you 
+until you reach certain areas. I suppose this is one way of moderating player 
+defence, and also preventing somebody putting together a suit of Fluted Mail 
+from piles of Leather Bear Masks and Bandages...
+
+To upgrade your starting items, at first you may need to add them to much more 
+powerful items of the same kind just to put them on the step of gradual 
+advancement, as outlined in these tables. For instance, combining the Tovarisch 
+Hand Axe with a Battle Axe will get you nowhere, but incorporate it into a 
+Francisca and you're on the upgrade tree.
+
+A quick note on end results. There isn't much difference between the Dread class 
+and the Jazeraint class, when it comes down to it, as it's more a question of a 
+single point that goes either towards STR at the expense of INT (Dread) or 
+towards INT at the expense of STR(Jazeraint). A personal choice, in other words. 
+Though why anybody would want that ugly great Dread Shield when you could have a 
+lovely red Jazeraint diamond with a Rood on it...
+
+Also, if you acquire the Holy Wind rood blade or the Hand of Light maces, note 
+that these work like metal converters and possess some unusual combination 
+properties. Place the rood blade in the first slot of Combine / Blades and, as 
+long as the weapon you add to it is sufficiently powerful, you'll produce that 
+second weapon in Damascus while retaining its design.
+
+The Hand of Light is also a metal converter: place it in the second slot of 
+Combine / Blades, stick any other item in the first slot and you'll produce that 
+first item in the same metal as the Hand of Light (Iron or Hagane). In reverse, 
+some alternative combinations are possible. The two tricks don't work together 
+to make a Damascus Hand of Light, however.
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CHEST AND BODY ARMOUR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRIMARY COMBINANT    SECONDARY COMBINANT    RESULT 
+Banded Mail          Cuirass                Ring Mail
+Ring Mail            Banded Mail            Chain Mail
+Chain Mail           Ring Mail              Breastplate
+Breastplate          Chain Mail             Segmentata
+Segmentata           Breastplate            Scale Armour
+Scale Armour         Breastplate            Brigandine
+Brigandine           Breastplate            Plate Mail
+Brigandine           Scale Armour           Plate Mail
+Platemail            Brigandine             Fluted Armour
+Fluted Mail          Platemail              Hoplite Armour
+Hoplite Armour       Hoplite Armour         Jazeraint Armour
+Jazeraint Armour     Jazeraint Armour       Dread Armour
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+HAND AND SLEEVE ARMOUR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRIMARY COMBINANT    SECONDARY COMBINANT    RESULT
+Reinforced Glove     Knuckles               Ring Sleeve
+Knuckles             Ring Sleeve            Chain Sleeve
+Ring Sleeve          Chain Sleeve           Gauntlet
+Gauntlet             Vambrace               Plate Glove
+Vambrace             Plate Glove            Rondanche
+Rondanche            Plate Glove            Tilt Glove
+Tilt Glove           Tilt Glove             Freiturnier
+Freiturnier          Rondanche              Fluted Glove
+Fluted Glove         Freiturnier            Hoplite Glove
+Hoplite Glove        Hoplite Glove          Jazeraint Glove
+Jazeraint Glove      Jazeraint Glove        Dread Glove
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEG AND SHIN ARMOUR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRIMARY COMBINANT    SECONDARY COMBINANT    RESULT
+Fusskampf            Poleyn                 Jambeau
+Poleyn               Chain Leggings         Jambeau
+Jambeau              Poleyn                 Missaglia
+Jambeau              Chain Leggings         Missaglia
+Missaglia            Poleyn                 Plate Leggings
+Plate Leggings       Missaglia              Fluted Leggings
+Fluted Leggings      Plate Leggings         Hoplite Leggings
+Hoplite Leggings     Hoplite Leggings       Jazeraint Leggings
+Jazeraint Leggings   Jazeraint Leggings     Dread Leggings
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+HATS, HELMETS AND HEAD ARMOUR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRIMARY COMBINANT    SECONDARY COMBINANT    RESULT
+Chain Coif           Bone Helm              Spangenhelm
+Spangenhelm          Chain Coif             Cabasset      
+Cabasset             Spangenhelm            Sallet
+Sallet               Barbut                 Basinet
+Basinet              Barbut                 Armet
+Armet                Basinet                Close Helm 
+Close Helm           Basinet                Burgonet
+Burgonet             Close Helm             Hoplite Helm
+Hoplite Helm         Hoplite Helm           Jazeraint Helm
+Jazeraint Helm       Jazeraint Helm         Dread Helm
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+SUIT GROUPS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There are 16 distinct 'suits of armour' in the game, many of them roughly 
+corresponding to historical fashions (for instance, the angular 'poleyn' 
+kneepads and plate segments over mail both appeared in the early- to mid-14th 
+Century). If you combine items from the same suit group, you'll create another 
+item within that group. For example, add an Armet to a Brigandine -- both group 
+11 -- and you'll get the Missaglia. This is how the items match up for each 
+group:
+
+No| SLEEVE ARMOUR    HELM            BODY ARMOUR      LEG ARMOUR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 1| Bandage          Bandana         Jerkin           Sandals
+ 2| Leather Glove    Bear Mask       Hauberk          Boots        
+ 3| Reinforced Glove Wizard Hat      Wizard Robe      Long Boots
+ 4| Knuckles         Bone Helm       Cuirass          Cuisse       
+ 5| Ring Sleeve      Chain Coif      Banded Mail      Light Grieve
+ 6| Chain Sleeve     Spangenhelm     Ring Mail        Ring Leggings
+ 7| Gauntlet         Cabasset        Chain Mail       Chain Leggings
+ 8| Vambrace         Sallet          Breastplate      Fusskampf
+ 9| Plate Glove      Barbut          Segmentata       Poleyn
+10| Rondanche        Basinet         Scale Armor      Jambeau
+11| Tilt Glove       Armet           Brigandine       Missaglia
+12| Freiturnier      Close Helm      Plate Mail       Plate Leggings
+13| Fluted Glove     Burgonet        Fluted Armor     Fluted Leggings
+14| Hoplite Glove    Hoplite Helm    Hoplite Armor    Hoplite Leg's
+15| Jazeraint Glove  Jazeraint Helm  Jazeraint Armor  Jazeraint Leg's
+16| Dread Glove      Dread Helm      Dread Armor      Dread Leggings
+
+NB The game's sixteen shields also correspond to these groups - so that Knight 
+Shield (no. 13) would properly be worn with Fluted Armour, aesthetically 
+speaking - but as there's no workshop crossover, and you can't actually see the 
+armour, it doesn't really mean very much and there are no perceptible bonuses 
+for wearing a 'complete' suit.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+SHIELDS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRIMARY COMBINANT    SECONDARY COMBINANT    RESULT
+Targe                Buckler                Pelta Shield
+Pelta Shield         Targe                  Quad Shield
+Quad Shield          Targe                  Circle Shield
+Circle Shield        Quad Shield            Tower Shield
+Tower Shield         Quad Shield            Spiked Shield
+Spiked Shield        Circle Shield          Round Shield
+Round Shield         Tower Shield           Kite Shield
+Round Shield         Spiked Shield          Kite Shield
+Kite Shield          Round Shield           Casserole Shield
+Casserole Shield     Kite Shield            Heater Shield
+Heater Shield        Casserole Shield       Oval Shield
+Oval Shield          Heater Shield          Knight Shield
+Knight Shield        Oval Shield            Hoplite Shield
+Hoplite Shield       Hoplite Shield         Jazeraint Shield
+Jazeraint Shield     Jazeraint Shield       Dread Shield
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DAGGERS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRIMARY COMBINANT    SECONDARY COMBINANT    RESULT
+Dirk                 Scramasax              Throwing Knife
+Throwing Knife       Scramasax              Kudi
+Kudi                 Throwing Knife         Cinquedea
+Cinquedea            Kudi                   Kris
+Kris                 Cinquedea              Hatchet
+Hatchet              Kris                   Khukuri
+Khukuri              Hatchet                Baselard
+Baselard             Baselard               Stiletto
+Stiletto             Stiletto               Jamadhar
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+SWORDS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRIMARY COMBINANT    SECONDARY COMBINANT    RESULT
+Rapier               Spatha                 Short Sword
+Firangi              Short Sword            Shamshir
+Shamshir             Firangi                Falchion
+Falchion             Shamshir               Shotel
+Shotel               Falchion               Kora
+Kora                 Kora                   Khopesh
+Khopesh              Khopesh                Wakizashi
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+AXES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRIMARY COMBINANT    SECONDARY COMBINANT    RESULT
+Francisa             Battle Axe             Tabarzin
+Tabarzin             Francisca              Chamkaq
+Chamkaq              Tabarzin               Tabar
+Tabar                Tabar                  Bullova
+Bullova              Bullova                Crescent
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+MACES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRIMARY COMBINANT    SECONDARY COMBINANT    RESULT
+Ball Mace            Spiked Club            Footman's Mace (1-H)
+Footman's Mace (1-H) Ball Mace              Morning Star
+Morning Star         Footman's Mace (1-H)   War Hammer
+War Hammer           War Hammer             Bec de Corbin
+Bec de Corbin        Bec de Corbin          War Maul
+
+
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+GREAT SWORDS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRIMARY COMBINANT    SECONDARY COMBINANT    RESULT
+Katana               Broad Sword            Executioner
+Executioner          Katana                 Claymore
+Claymore             Executioner            Schiavona
+Schiavona            Claymore               Bastard Sword
+Bastard Sword        Bastard Sword          Nodachi
+Nodachi              Nodachi                Rune Blade
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+GREAT AXES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRIMARY COMBINANT    SECONDARY COMBINANT    RESULT
+Sabre Halberd        Large Crescent         Balbriggan
+Balbriggan           Sabre Halberd          Double Blade
+Double Blade         Double Blade           Halberd
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+HEAVY MACES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRIMARY COMBINANT    SECONDARY COMBINANT    RESULT
+Footman's Mace (2-H) Sabre Mace             Gloomwing
+Gloomwing            Footman's Mace (2-H)   Mjolnir
+Mjolnir              Mjolnir                Griever
+Griever              Griever                Destroyer
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+STAVES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRIMARY COMBINANT    SECONDARY COMBINANT    RESULT
+Summoner's Baton     Clergy Rod             Shamanic Staff
+Shamanic Staff       Summoner's Baton       Bishop's Crosier
+Bishop's Crosier     Bishop's Crosier       Sage's Cane
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+POLEARMS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRIMARY COMBINANT    SECONDARY COMBINANT    RESULT
+Scorpion             Glaive                 Corcesca
+Corcesca             Scorpion               Trident
+Trident              Corcesca               Awl Pike
+Awl Pike             Trident                Boar Spear
+Boar Spear           Trident                Fauchard
+Fauchard             Boar Spear             Voulge
+Voulge               Fauchard               Pole Axe
+Pole Axe             Pole Axe               Bardysh
+Bardysh              Bardysh                Brandestoc
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CROSSBOWS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRIMARY COMBINANT    SECONDARY COMBINANT    RESULT
+Target Bow           Gastraph Bow           Light Crossbow
+Light Crossbow       Target Bow             Windlass
+Windlass             Target Bow             Cranequin
+Cranequin            Windlass               Lug Crossbow
+Lug Crossbow         Lug Crossbow           Siege Bow
+Siege Bow            Siege Bow              Arbalest
+
+
+
+
+==============================================
+15. ITEM LIST
+==============================================
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+GRIPS LIST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+------------------------------------
+Dagger, Sword and Great Sword Grips
+------------------------------------
+
+GRIP               BLT/EGD/PRC      GEM SLOTS
+Short Hilt          0 / 4 / 1       x 0
+Swept Hilt          0 / 2 / 4       x 0
+Cross Guard         8 / 6 / 2       x 1
+Counter Guard       0 / 8 / 7       x 1
+Knuckle Guard       0 / 5 / 9       x 2
+Side Ring          10 /12 /10       x 2
+Murderer's Hilt     0 /13 /17       x 2
+Power Palm          0 /15 /12       x 3
+Spiral Hilt        20 /20 /20       x 3
+
+
+------------------------------------
+Axe, Mace and Staff Grips
+------------------------------------
+
+GRIP               BLT/EGD/PRC      GEM SLOTS
+Wooden Grip         5 / 1 / 0       x 0
+Czekan Type         8 / 4 / 0       x 0
+Sand Face           3 / 6 / 0       x 1
+Sarissa Grip        6 / 9 / 0       x 1
+Heavy Grip          6 /15 / 0       x 1
+Gendarme           13 / 5 / 0       x 2
+Runkasyle          17 / 7 / 0       x 2
+Grimoire Grip      21 / 9 / 0       x 2
+Bhuj Type           8 /19 / 0       x 3
+Elephant           11 /22 / 0       x 3
+
+
+
+------------------------------------
+Polearm Grips
+------------------------------------
+
+GRIP               BLT/EGD/PRC      GEM SLOTS
+Wooden Pole        11 / 0 / 1       x 0
+Winged Pole         2 / 6 /16       x 0
+Spiculum Pole       2 /12 / 4       x 1 (2 1 -3)
+Ahlspies           10 /14 /12       x 1
+Framea Pole        16 / 4 /10       x 2
+Spiral Pole        15 / 6 /21       x 3
+
+
+------------------------------------
+Crossbow Grips
+------------------------------------
+
+GRIP               BLT/EGD/PRC      GEM SLOTS
+Simple Bolt         1 / 0 /10       x 0
+Steel Bolt          1 / 0 /13       x 1
+Javelin Bolt       17 / 0 / 2       x 1
+Falarica Bolt       3 / 0 /20       x 1
+Stone Bullet       23 / 0 / 4       x 1
+Sonic Bullet        5 / 0 /25       x 1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WEAPON LIST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DAGGERS
+01. Battle Knife
+02. Scramasax
+03. Dirk
+04. Throwing Knife
+05. Kudi
+06. Cinquedea
+07. Kris
+08. Hatchet
+09. Khukuri
+10. Baselard
+11. Stiletto
+12. Jamadhar
+
+
+SWORDS
+01. Spatha
+02. Scimitar
+03. Rapier
+04. Short Sword
+05. Firangi
+06. Shamshir
+07. Falchion
+08. Shotel
+09. Kora
+10. Khopesh
+11. Wakizashi
+12. Rhomphaia
+
+
+AXES
+01. Hand Axe
+02. Battle Axe
+03. Francisca
+04. Tabarzin
+05. Chamkaq
+06. Tabar
+07. Bullova
+08. Crescent
+
+
+MACES
+01. Goblin Club
+02. Spiked Club
+03. Ball Mace
+04. Footman's Mace (1-H)*
+05. Morning Star
+06. War Hammer
+07. Bec de Corbin
+08. War Maul
+
+*Don't get this confused with the Heavy Mace also called Footman's Mace.
+
+GREAT SWORDS
+01. Broad Sword
+02. Norse Sword
+03. Katana
+04. Executioner
+05. Claymore
+06. Schiavona
+07. Bastard Sword
+08. Nodachi
+09. Rune Blade
+10. Holy Win
+
+
+GREAT AXES
+01. Guisarme
+02. Large Crescent
+03. Sabre Halberd
+04. Balbriggan
+05. Double Blade
+06. Halberd
+
+
+HEAVY MACES
+01. Langdebeve
+02. Sabre Mace
+03. Footman's Mace (2-H)**
+04. Gloomwing
+05. Mjolnir
+06. Griever
+07. Destroyer
+08. Hand of Light
+
+**Don't get this confused with the one-handed Mace also called Footman's Mace.
+
+
+STAVES
+01. Wizard Staff
+02. Clergy Rod
+03. Summoner Baton
+04. Shamanic Staff
+05. Bishop's Crosier
+06. Sage's Cane
+
+
+POLEARMS
+01. Spear
+02. Glaive
+03. Scorpion
+04. Corcesca
+05. Trident
+06. Awl Pike
+07. Boar Spear
+08. Fauchard
+09. Voulge
+10. Pole Axe
+11. Bardysh
+12. Brandestoc
+
+
+CROSSBOWS
+01. Gastraph Bow
+02. Target Bow
+03. Light Crossbow
+04. Windlass
+05. Cranequin
+06. Lug Crossbow
+07. Siege Bow
+08. Arbalest
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ARMOUR LIST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+SHIELDS
+01. Buckler
+02. Targe
+03. Pelta Shield
+04. Quad Shield
+05. Circle Shield
+06. Tower Shield
+07. Spiked Shield
+08. Round Shield
+09. Kite Shield
+10. Casserole Shield
+11. Heater Shield
+12. Oval Shield
+13. Knight Shield
+14. Hoplite Shield
+15. Jazeraint Shield
+16. Dread Shield
+
+
+HELMS
+01. Bandana
+02. Bear Mask
+03. Wizard Hat
+04. Bone Helm
+05. Chain Coif
+06. Spangenhelm
+07. Cabasset
+08. Sallet
+09. Barbut
+10. Basinet
+11. Armet
+12. Close Helm
+13. Burgonet
+14. Hoplite Helm
+15. Jazeraint Helm
+16. Dread Helm
+
+
+BODY ARMOUR
+01. Jerkin
+02. Hauberk
+03. Wizard Robe
+04. Cuirass
+05. Banded Mail
+06. Ring Mail
+07. Chain Mail
+08. Breastplate
+09. Segmentata
+10. Scale Armour
+11. Brigandine
+12. Plate Mail
+13. Fluted Mail
+14. Hoplite Armour
+15. Jazeraint Armour
+16. Dread Armour
+
+
+LEG ARMOUR
+01. Sandals
+02. Boots
+03. Long Boots
+04. Cuisse
+05. Light Greaves
+06. Ring Leggings
+07. Chain Leggings
+08. Fusskampf
+09. Poleyn
+10. Jambeau
+11. Missaglia
+12. Plate Leggings
+13. Fluted Leggings
+14. Hoplite Leggings
+15. Jazeraint Leggings
+16. Dread Leggings
+
+
+ARM ARMOUR
+01. Bandage
+02. Leather Glove
+03. Reinforced Glove
+04. Knuckles
+05. Ring Sleeve
+06. Chain Sleeve
+07. Gauntlet
+08. Vambrace
+09. Plate Glove
+10. Rondanche
+11. Tilt Glove
+12. Freiturner
+13. Fluted Glove
+14. Hoplite Glove
+15. Jazeraint Glove
+16. Dread Glove
+

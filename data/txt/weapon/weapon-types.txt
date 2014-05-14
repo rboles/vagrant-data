@@ -1,0 +1,16 @@
+# weapon-types.txt
+#
+# Vagrant Story weapon types
+#
+# The order is not important, so they are alphabetical
+
+Axe
+Crossbow
+Dagger
+Great Axe
+Great Sword
+Heavy Mace
+Mace
+Polearm
+Staff
+Sword

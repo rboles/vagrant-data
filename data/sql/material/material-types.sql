@@ -1,0 +1,14 @@
+delete from material_type;
+alter table material_type AUTO_INCREMENT=1;
+insert into material_type (name, short, atomic, strength, armor, weapon, shield) values ('Wood', 'W', 'T', '1', 'F', 'F', 'T');
+insert into material_type (name, short, atomic, strength, armor, weapon, shield) values ('Leather', 'L', 'T', '2', 'T', 'F', 'F');
+insert into material_type (name, short, atomic, strength, armor, weapon, shield) values ('Bronze', 'B', 'T', '3', 'T', 'T', 'T');
+insert into material_type (name, short, atomic, strength, armor, weapon, shield) values ('Weak Iron', '-I', 'F', '4', 'T', 'F', 'F');
+insert into material_type (name, short, atomic, strength, armor, weapon, shield) values ('Iron', 'I', 'T', '5', 'T', 'T', 'T');
+insert into material_type (name, short, atomic, strength, armor, weapon, shield) values ('Weak Hagane', '-H', 'F', '6', 'T', 'F', 'F');
+insert into material_type (name, short, atomic, strength, armor, weapon, shield) values ('Hagane', 'H', 'T', '7', 'T', 'T', 'T');
+insert into material_type (name, short, atomic, strength, armor, weapon, shield) values ('Strong Hagane', '+H', 'F', '8', 'T', 'T', 'T');
+insert into material_type (name, short, atomic, strength, armor, weapon, shield) values ('Silver', 'S', 'T', '9', 'T', 'T', 'T');
+insert into material_type (name, short, atomic, strength, armor, weapon, shield) values ('Strong Silver', '+S', 'F', '10', 'T', 'F', 'T');
+insert into material_type (name, short, atomic, strength, armor, weapon, shield) values ('Damascus', 'D', 'T', '11', 'T', 'T', 'T');
+insert into material_type (name, short, atomic, strength, armor, weapon, shield) values ('Strong Damascus', '+D', 'F', '12', 'T', 'T', 'F');

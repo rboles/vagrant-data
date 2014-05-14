@@ -1,0 +1,913 @@
+# material-weapon-combos.txt
+#
+# Tables of material combinations by weapon type
+#
+# The table below is used to determine the material of an object
+# resulting from a combination. The row across the top is the type and
+# material of the object in the first combination slot. The column
+# down the left is the type and material of the object in the second
+# slot. The intersection of row and column indicates what material the
+# resulting object will be.  For example, putting a Leather helm in
+# the first slot and a piece of Iron body armor in the second results
+# in a piece of Bronze armor.
+#
+# Lines beginning with "--" identify the object types in the table. For
+# example,  --Sword+Dagger identifies a table whose first slot is
+# Sword and second slot is Dagger
+#
+# After identifying the object types, parse the next row: this is the
+# material type of object 1. Parse and split the second row. The first
+# element is the material type of object 2; the remainder of the row
+# is the results.
+
+--Dagger+Dagger
+      B   I   H   S   D 
+# ---------------------
+ B |  B  +H   H   H   H 
+ I | +H   I   H   H   H
+ H |  H   H   H   H   H
+ S |  H   H   H   S   S
+ D |  H   H   H   S   D
+
+--Sword+Dagger
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Great Sword+Dagger
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Axe+Dagger
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Mace+Dagger
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Great Axe+Dagger
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Staff+Dagger
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H  *S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Heavy Mace+Dagger
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Polearm+Dagger
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H *+D   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Crossbow+Dagger
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D 
+ I |  B   I   H   S   D 
+ H |  B   I   H   S   D 
+ S |  B   I   H   S   D 
+ D |  B   I   H   S   D 
+
+--Dagger+Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Sword+Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B  +H   H   H   H
+ I | +H   I   H   H   H
+ H |  H   H   H   H   H
+ S |  H   H   H   S   S
+ D |  H   H   H   S   D
+
+--Great Sword+Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Axe+Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Mace+Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Great Axe+Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Staff+Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Heavy Mace+Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Polearm+Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Crossbow+Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Dagger+Great Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Sword+Great Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Great Sword+Great Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B  +H   H   H   H
+ I | +H   I   H   H   H
+ H |  H   H   H   H   H
+ S |  H   H   H   S   S
+ D |  H   H   H   S   D
+
+--Axe+Great Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Mace+Great Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Great Axe+Great Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Staff+Great Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Heavy Mace+Great Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Polearm+Great Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D 
+ I |  B   I   H   S   D 
+ H |  B   I   H   S   D 
+ S |  B  *S   H   S   D 
+ D |  B   I   H   S   D 
+
+--Crossbow+Great Sword
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B 
+ I |  I   I   I   I   I 
+ H |  H   H   H   H   H 
+ S |  S   S *+D   S   S 
+ D |  D   D   D   D   D 
+
+--Dagger+Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B 
+ I |  I   I   I   I   I 
+ H |  H   H   H   H   H 
+ S |  S   S   S   S   S 
+ D |  D   D   D   D   D 
+
+--Sword+Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B 
+ I |  I   I   I   I   I 
+ H |  H   H   H   H   H 
+ S |  S   S   S   S   S 
+ D |  D   D   D   D   D 
+
+--Great Sword+Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D 
+ I |  B   I   H   S   D 
+ H |  B   I   H   S   D 
+ S |  B   I   H   S   D 
+ D |  B   I   H   S   D 
+
+--Axe+Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B  +H   H   H   H
+ I | +H   I   H   H   H
+ H |  H   H   H   H   H
+ S |  H   H   H   S   S
+ D |  H   H   H   S   D
+
+--Mace+Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B  +H   H   H   H
+ I | +H   I   H   H   H
+ H |  H   H   H   H   H
+ S |  H   H   H   S   S
+ D |  H   H   H   S   D
+
+--Great Axe+Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D 
+ I |  B   I   H   S   D 
+ H |  B   I   H   S   D 
+ S |  B   I   H   S   D 
+ D |  B   I   H   S   D 
+
+--Staff+Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S  *S   S   S
+ D |  D   D   D   D   D
+
+--Heavy Mace+Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D 
+ I |  B   I   H   S   D 
+ H |  B   I   H   S   D 
+ S |  B   I   H   S   D 
+ D |  B   I   H   S   D 
+
+--Polearm+Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H  *S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Crossbow+Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D 
+ I |  B   I   H   S   D 
+ H |  B   I   H   S   D 
+ S |  B   I   H   S   D 
+ D |  B   I   H   S   D 
+
+--Dagger+Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B 
+ I |  I   I   I   I   I 
+ H |  H   H   H   H   H 
+ S |  S   S   S   S   S 
+ D |  D   D   D   D   D 
+
+--Sword+Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B 
+ I |  I   I   I   I   I 
+ H |  H   H   H   H   H 
+ S |  S   S   S   S   S 
+ D |  D   D   D   D   D 
+
+--Great Sword+Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D 
+ I |  B   I   H   S   D 
+ H |  B   I   H   S   D 
+ S |  B   I   H   S   D 
+ D |  B   I   H   S   D 
+
+--Axe+Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B  +H   H   H   H
+ I | +H   I   H   H   H
+ H |  H   H   H   H   H
+ S |  H   H   H   S   S
+ D |  H   H   H   S   D
+
+--Mace+Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B  +H   H   H   H
+ I | +H   I   H   H   H
+ H |  H   H   H   H   H
+ S |  H   H   H   S   S
+ D |  H   H   H   S   D
+
+--Great Axe+Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D 
+ I |  B   I   H   S   D 
+ H |  B   I   H   S   D 
+ S |  B   I   H   S   D 
+ D |  B   I   H   S   D 
+
+--Staff+Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S  *S   S   S
+ D |  D   D   D   D   D
+
+--Heavy Mace+Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D 
+ I |  B   I   H   S   D 
+ H |  B   I   H   S   D 
+ S |  B   I   H   S   D 
+ D |  B   I   H   S   D 
+
+--Polearm+Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H  *S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Crossbow+Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D 
+ I |  B   I   H   S   D 
+ H |  B   I   H   S   D 
+ S |  B   I   H   S   D 
+ D |  B   I   H   S   D 
+
+--Dagger+Great Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Sword+Great Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Great Sword+Great Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Axe+Great Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Mace+Great Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Great Axe+Great Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B  +H   H   H   H
+ I | +H   I   H   H   H
+ H |  H   H   H   H   H
+ S |  H   H   H   S   S
+ D |  H   H   H   S   D
+
+--Staff+Great Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S *+D   S   S   S
+ D |  D   D   D   D   D
+
+--Heavy Mace+Great Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Polearm+Great Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Crossbow+Great Axe
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B 
+ I |  I   I   I   I   I 
+ H |  H   H   H   H   H 
+ S |  S   S  *S   S   S 
+ D |  D   D   D   D   D 
+
+--Dagger+Staff
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S *+D   S   S
+ D |  D   D   D   D   D
+
+--Sword+Staff
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Great Sword+Staff
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Axe+Staff
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H *+D   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Mace+Staff
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H *+D   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Great Axe+Staff
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H  *S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Staff+Staff
+      B   I   H   S   D 
+# ---------------------
+ B |  B  +H   H   H   H
+ I | +H   I   H   H   H
+ H |  H   H   H   H   H
+ S |  H   H   H   S   S
+ D |  H   H   H   S   D
+
+--Heavy Mace+Staff
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Polearm+Staff
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Crossbow+Staff
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Dagger+Heavy Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Sword+Heavy Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Great Sword+Heavy Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Axe+Heavy Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Mace+Heavy Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Great Axe+Heavy Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Staff+Heavy Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Heavy Mace+Heavy Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B  +H   H   H   H
+ I | +H   I   H   H   H
+ H |  H   H   H   H   H
+ S |  H   H   H   S   S
+ D |  H   H   H   S   D
+
+--Polearm+Heavy Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Crossbow+Heavy Mace
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Dagger+Polearm
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S  *S   S   S
+ D |  D   D   D   D   D
+
+--Sword+Polearm
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Great Sword+Polearm
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I *+D   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Axe+Polearm
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S *+D   S   S
+ D |  D   D   D   D   D
+
+--Mace+Polearm
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S *+D   S   S
+ D |  D   D   D   D   D
+
+--Great Axe+Polearm
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Staff+Polearm
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Heavy Mace+Polearm
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Polearm+Polearm
+      B   I   H   S   D 
+# ---------------------
+ B |  B  +H   H   H   H
+ I | +H   I   H   H   H
+ H |  H   H   H   H   H
+ S |  H   H   H   S   S
+ D |  H   H   H   S   D
+
+--Crossbow+Polearm
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Dagger+Crossbow
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Sword+Crossbow
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Great Sword+Crossbow
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H  *S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Axe+Crossbow
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Mace+Crossbow
+      B   I   H   S   D 
+# ---------------------
+ B |  B   B   B   B   B
+ I |  I   I   I   I   I
+ H |  H   H   H   H   H
+ S |  S   S   S   S   S
+ D |  D   D   D   D   D
+
+--Great Axe+Crossbow
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H *+D   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Heavy Mace+Crossbow
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Polearm+Crossbow
+      B   I   H   S   D 
+# ---------------------
+ B |  B   I   H   S   D
+ I |  B   I   H   S   D
+ H |  B   I   H   S   D
+ S |  B   I   H   S   D
+ D |  B   I   H   S   D
+
+--Crossbow+Crossbow
+      B   I   H   S   D 
+# ---------------------
+ B |  B  +H   H   H   H 
+ I | +H   I   H   H   H 
+ H |  H   H   H   H   H 
+ S |  H   H   H   S   S 
+ D |  H   H   H   S   D 
+

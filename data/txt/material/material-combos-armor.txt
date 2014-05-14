@@ -1,0 +1,191 @@
+# material-armor-combos.txt
+#
+# Tables of material combinations by armor type
+#
+# The table below is used to determine the material of an object
+# resulting from a combination. The row across the top is the type and
+# material of the object in the first combination slot. The column
+# down the left is the type and material of the object in the second
+# slot. The intersection of row and column indicates what material the
+# resulting object will be.  For example, putting a Leather helm in
+# the first slot and a piece of Iron body armor in the second results
+# in a piece of Bronze armor.
+#
+# Lines beginning with "--" identify the object types in the table. For
+# example,  --Body+Helm identifies a table whose first slot is Body
+# and second slot is Helm
+#
+# After identifying the object types, parse the next row: this is the
+# material type of object 1. Parse and split the second row. The first
+# element is the material type of object 2; the remainder of the row
+# is the results.
+
+--Helm+Helm
+      L   B   I   H   S   D  
+# ------------------------- 
+ L |  L   B  +H   H   H   H
+ B |  B   B  +H   H   H   H
+ I | +H  +H   I   H   H   I
+ H |  H   H   H   H   H   H
+ S |  H   H   H   H   S  -H
+ D |  H   H   I   H  -H   D
+
+--Body+Helm
+      L   B   I   H   S   D  
+# -------------------------
+ L |  L   B  *I   H   S   D
+ B |  B   B   I   H   S   D
+ I | *I   B   I   H   S   D
+ H |  B   B   I   H   S   D
+ S |*+D   B   I   H   S   D
+ D |  B   B   I   H   S   D
+
+--Leg+Helm
+      L   B   I   H   S   D  
+# -------------------------
+ L |  L   B  *I   H   S   D
+ B |  B   B   I   H   S   D
+ I | *I   B   I   H   S   D
+ H |  B   B   I   H   S   D
+ S | *B   B   I   H   S   D
+ D |  B   B   I   H   S   D
+
+--Arm+Helm
+      L   B   I   H   S   D  
+# -------------------------
+ L |  L   B  *I  +S   S   D
+ B |  B   B   I   H   S   D
+ I | *I   B   I   H   S   D
+ H |  B   B   I   H   S   D
+ S |  B   B   I   H   S   D
+ D |  B   B   I   H   S   D
+
+--Helm+Body
+      L   B   I   H   S   D  
+# -------------------------
+ L |  L   B  *B   B  *B   B
+ B |  B   B   B   B   B   B
+ I | *B   I   I   I   I   I
+ H |  H   H   H   H   H   H
+ S |  S   S   S   S   S   S
+ D |  D   D   D   D   D   D
+
+--Body+Body
+      L   B   I   H   S   D  
+# -------------------------
+ L |  L   B  +H   H   H   H
+ B |  B   B  +H   H   H   H
+ I | +H  +H   I   H   H   H
+ H |  H   H   H   H  -I   H
+ S |  H   H   H  -I   S  -H
+ D |  H   H   H   H  -H   D
+
+--Leg+Body
+      L   B   I   H   S   D  
+# -------------------------
+ L |  L   B  *I   H   S   D
+ B |  B   B   I   H   S   D
+ I | *I   B   I   H   S   D
+ H |  B   B   I   H *+D   D
+ S |  B   B   I   H   S   D
+ D |  B   B   I   H   S   D
+
+--Arm+Body
+      L   B   I   H   S   D  
+# -------------------------
+ L |  L   B  *I   H   S   D
+ B |  B   B   I   H   S   D
+ I | *I   B   I   H   S   D
+ H |  B   B   I   H   S   D
+ S |  B   B   I   H   S   D
+ D |  B   B   I   H   S   D
+
+--Helm+Leg
+      L   B   I   H   S   D  
+# -------------------------
+ L |  L   B  *B   B *+D   B
+ B |  B   B   B   B   B   B
+ I | *B   I   I   I   I   I
+ H |  H   H   H   H   H   H
+ S |  S   S   S   S   S   S
+ D |  D   D   D   D   D   D
+
+--Body+Leg
+      L   B   I   H   S   D  
+# -------------------------
+ L |  L   B  *B   B   B   B
+ B |  B   B   B   B   B   B
+ I | *B   I   I   I   I   I
+ H |  H   H   H   H   H   H
+ S |  S   S   S  *S   S   S
+ D |  D   D   D   D   D   D
+
+--Leg+Leg
+      L   B   I   H   S   D  
+# -------------------------
+ L |  L   B  +H   H   H   H
+ B |  B   B  +H   H   H   H
+ I | +H  +H   I   H   H   H
+ H |  H   H   H   H  *S   H
+ S |  H   H   H *+D   S  -H
+ D |  H   H   H   H  -H   D
+
+--Arm+Leg
+      L   B   I   H   S   D  
+# -------------------------
+ L |  L   B  *B   B   B   S
+ B |  B   B   B   B   B   B
+ I | *B   I   I   I   I   I
+ H |  H   H   H   H   H   H
+ S |  S   S   S   S   S   S
+ D |  D   D   D   D   D   D
+
+--Helm+Arm
+      L   B   I   H   S   D  
+# -------------------------
+ L |  L   B  *B   B   B   B
+ B |  B   B   B   B   B   B
+ I | *B   I   I   I   I   I
+ H | +S   H   H   H   H   H
+ S |  S   S   S   S   S   S
+ D |  D   D   D   D   D   D
+
+--Body+Arm
+      L   B   I   H   S   D  
+# -------------------------
+ L |  L   B  *B   B   B   B
+ B |  B   B   B   B   B   B
+ I | *B   I   I   I   I   I
+ H |  H   H   H   H   H   H
+ S |  S   S   S   S   S   S
+ D |  D   D   D   D   D   D
+
+--Leg+Arm
+      L   B   I   H   S   D  
+# -------------------------
+ L |  L   B  *I   H   S   D
+ B |  B   B   I   H   S   D
+ I | *I   B   I   H   S   D
+ H |  B   B   I   H   S   D
+ S |  B   B   I   H   S   D
+ D |  S   B   I   H   S   D
+
+--Arm+Arm
+      L   B   I   H   S   D  
+# -------------------------
+ L |  L   B  +H  *B   H   H
+ B |  B   B  +H   H   H   H
+ I | +H  +H   I   H   H  *H
+ H | *H   H   H   H   H   H
+ S |  H   H   H   H   S  -H
+ D |  H   H  *I   H  -H   D
+
+--Shield+Shield
+      W   B   I   H   S   D  
+# -------------------------
+ W |  W   B   I   H   S   D
+ B |  B   B  +H  *H   B   H
+ I |  I  +H   I   H   I   H
+ H |  H *+S   H   H   H   H
+ S |  S   B   I   H   S   S
+ D |  D   H   H   H   S   D
